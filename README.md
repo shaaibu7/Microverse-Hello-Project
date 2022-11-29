@@ -4,7 +4,6 @@
    - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
-  - [Install](#install)
 - [👥 Authors](#authors)
 - [⭐️ Show your support](#support)
 - [📝 License](#license)
@@ -25,7 +24,7 @@ In order to run this project you need:
 
 Follow the link to setup the project correctly.
 
-- [Set up project]: (https://github.com/microverseinc/linters-config/tree/master/html-css)
+- [Set up project](https://github.com/microverseinc/linters-config/tree/master/html-css)
 
 
 ### Setup
@@ -47,7 +46,6 @@ Clone this repository to your desired folder:
 
 > You can show your support for the project by giving us a star.
 
-If you like this project...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
